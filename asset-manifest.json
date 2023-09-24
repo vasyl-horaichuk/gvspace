@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gvspace/static/css/main.b5320759.css",
-    "main.js": "/gvspace/static/js/main.d9904a31.js",
+    "main.js": "/gvspace/static/js/main.e75e337f.js",
     "index.html": "/gvspace/index.html",
     "main.b5320759.css.map": "/gvspace/static/css/main.b5320759.css.map",
-    "main.d9904a31.js.map": "/gvspace/static/js/main.d9904a31.js.map"
+    "main.e75e337f.js.map": "/gvspace/static/js/main.e75e337f.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.d9904a31.js"
+    "static/js/main.e75e337f.js"
   ]
 }
