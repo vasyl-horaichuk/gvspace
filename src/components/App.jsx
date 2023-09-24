@@ -4,7 +4,10 @@ import { Title } from './Title';
 export const App = () => {
   return (
     <>
-      <Title caption="Hello world!" text="Gvspace the best company!" />
+      <Title
+        caption="Seo оптимізація!"
+        text="Просуваємо сайти. Виведемо твій сайт в пошковій системі гугл в топ 10!"
+      />
       <Button name="Детальніше" />
     </>
   );
