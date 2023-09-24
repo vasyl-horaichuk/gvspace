@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const ButtonName = styled.button`
   padding: 11px 60px;
-  border: red;
+  border: 1px solid in;
   /* barlow */
   /* font-family: Barlow; */
   font-size: 15px;
@@ -13,4 +13,8 @@ export const ButtonName = styled.button`
   color: #fff;
   background: #9b51e0;
   box-shadow: 0px 7px 30px 0px rgba(77, 45, 102, 0.1) inset;
+  &:hover {
+    background: var(--Purple-1, #9b51e0);
+    box-shadow: 0px 7px 30px 0px rgba(77, 45, 102, 0.6) inset;
+  }
 `;
