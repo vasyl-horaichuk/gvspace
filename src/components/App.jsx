@@ -5,8 +5,9 @@ export const App = () => {
   return (
     <>
       <Title
-        caption="Seo оптимізація!"
+        title="Seo оптимізація!"
         text="Просуваємо сайти. Виведемо твій сайт в пошковій системі гугл в топ 10!"
+        caption="Seo"
       />
       <Button name="Детальніше" />
     </>
