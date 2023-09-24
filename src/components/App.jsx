@@ -1,16 +1,11 @@
+import { Button } from './Button';
+import { Title } from './Title';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Title caption="Hello world!" text="Gvspace the best company!" />
+      <Button name="Детальніше" />
+    </>
   );
 };
